@@ -29,11 +29,7 @@ A fun turtle racing game where the player predicts the winning turtle.
 ### Race Running
 ![](Screenshot%202026-06-20%20201032.png)
 
-## Files
 
-- main.py : Main game logic
-- Bet_screen.png : Betting screen screenshot
-- Race_Screen.png : Race gameplay screenshot
 
 ## What I Learned
 
@@ -42,3 +38,9 @@ A fun turtle racing game where the player predicts the winning turtle.
 - Random Module
 - Loops and Lists
 - Basic Game Development
+
+## Files
+
+- main.py : Main game logic
+- Bet_screen.png : Betting screen screenshot
+- Race_Screen.png : Race gameplay screenshot
