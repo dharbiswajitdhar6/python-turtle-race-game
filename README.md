@@ -24,7 +24,7 @@ A fun turtle racing game where the player predicts the winning turtle.
 ## Screenshots
 
 ### Betting Screen
-![](Screenshot%202026-06-20%20201032.png)
+![](Screenshot%202026-06-20%20201023.png)
 
 ### Race Running
-![](Screenshot%202026-06-20%20201023.png)
+![](Screenshot%202026-06-20%20201032.png)
