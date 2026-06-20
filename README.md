@@ -1,4 +1,4 @@
-# Turtle Race Game 
+<img width="1755" height="800" alt="image" src="https://github.com/user-attachments/assets/60e933a0-e81f-4688-b855-b26a49a1a9ea" /># Turtle Race Game 
 
 A simple turtle racing game built using Python Turtle Graphics.
 
@@ -24,7 +24,7 @@ A fun turtle racing game where the player predicts the winning turtle.
 ## Screenshots
 
 ### Betting Screen
-(Screenshot%202026-06-20%20201032.png)
+![](Screenshot%202026-06-20%20201032.png)
 
 ### Race Running
-(Screenshot%202026-06-20%20201023.png)
+![](Screenshot%202026-06-20%20201023.png)
